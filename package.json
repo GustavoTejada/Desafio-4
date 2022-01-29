@@ -8,7 +8,7 @@
     "dev": "nodemon products.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Gustavo Tejada",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2"
